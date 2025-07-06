@@ -1,0 +1,23 @@
+.App {
+  min-height: 100vh;
+  background: #e0a04b;
+  font-family: 'Noto Sans KR', 'Arial', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+/* 스크롤바 등 기본 스타일도 약간 보정 */
+body {
+  margin: 0;
+  padding: 0;
+  background: #e0a04b;
+}
+
+input,
+button {
+  font-family: inherit;
+}
+
+button:active {
+  opacity: 0.8;
+}
